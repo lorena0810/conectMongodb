@@ -1,0 +1,13 @@
+{
+    "name": "usuario/pruebanode",
+    "authors": [
+        {
+            "name": "lorena0810",
+            "email": "lorena0810reyes@gmail.com"
+        }
+    ],
+    "require": {
+        "automattic/woocommerce": "^3.0",
+        "mongodb/mongodb": "^1.7"
+    }
+}
